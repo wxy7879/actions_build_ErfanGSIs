@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.cnbeta.com/articles/tech/764073.htm
+  ROM_URL: https://pan.baidu.com/s/1Ib_R82ZohfqMuVvXYYgoBQ
   ROM_NAME: h2os
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
