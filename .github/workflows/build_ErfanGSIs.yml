@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pan.baidu.com/s/1Ib_R82ZohfqMuVvXYYgoBQ
+  ROM_URL: https://www.oneplus.com/cn/support/softwareupgrade/details?code=PM1574150497163
   ROM_NAME: h2os
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
